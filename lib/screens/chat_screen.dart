@@ -51,6 +51,7 @@ class _ChatScreenState extends State<ChatScreen> {
         title: Text('⚡️Chat'),
         backgroundColor: Colors.lightBlueAccent,
       ),
+      backgroundColor: Color(0xffFDEBF7),
       body: SafeArea(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,

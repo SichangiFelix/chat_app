@@ -27,7 +27,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
       upperBound: 1,
     );
 
-    animation = ColorTween(begin: Colors.blueGrey, end: Colors.white ).animate(controller);
+    animation = ColorTween(begin: Colors.blueGrey, end: Color(0xffEFEFEF) ).animate(controller);
 
     controller.forward();
 
