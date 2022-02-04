@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780941160604",
+    "project_id": "chatapp-92a80",
+    "storage_bucket": "chatapp-92a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780941160604:android:b4062f0672ccb9351cfd59",
+        "android_client_info": {
+          "package_name": "com.Sichangi.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780941160604-mijl2cahkimhrnu29o82u9l4tn51k8a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaLGhpYirKp4C640B0wk6UXh3Jl76aZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780941160604-mijl2cahkimhrnu29o82u9l4tn51k8a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
